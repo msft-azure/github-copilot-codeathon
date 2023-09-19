@@ -1,5 +1,7 @@
 # GitHub Copilot Codeathon Challenges
 
+## Please attempt all challenges with the help of GitHub Copilot
+
 ## Challenge 1- Create a new webapp and run it in the programming language of your choice
 - Task 1 : Create a user class id, name, username, email, phone and website properties.
 - Task 2 : Create a user service class that fetches users from the jsonplaceholder web site.
