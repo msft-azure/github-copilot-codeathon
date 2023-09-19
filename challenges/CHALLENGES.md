@@ -1,6 +1,7 @@
 # GitHub Copilot Codeathon Challenges
 
 ## Please attempt all challenges with the help of GitHub Copilot
+- Please take atleast 2 screenshots on usage of GitHub Copilot for each challenge
 
 ## Challenge 1- Create a new webapp and run it in the programming language of your choice
 - Task 1 : Create a user class id, name, username, email, phone and website properties.
