@@ -1,9 +1,9 @@
 # GitHub Copilot Codeathon Challenges
 
 ## Challenge 1- Create a new webapp and run it in the programming language of your choice
--Task 1 : Create a user class id, name, username, email, phone and website properties.
--Task 2 : Create a user service class that fetches users from the jsonplaceholder web site.
--Task 3 : Create a webpage that displays the user information from user service.
+- Task 1 : Create a user class id, name, username, email, phone and website properties.
+- Task 2 : Create a user service class that fetches users from the jsonplaceholder web site.
+- Task 3 : Create a webpage that displays the user information from user service.
 
 ## Challenge 2- Create an API and unit test cases in the programming language of your choice.Run and showcase the unit test cases 
 - Task 1 : Create a HTTP API to validate phonenumber. Write a regular expression to validate phonenumber in Indian format. Write a unit test case to  test it.
